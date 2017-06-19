@@ -32,8 +32,8 @@ extern "C" {
 #define TEMP_DIR                "/tmp"
 #define SYS_FILE_SYSTEMS        "/proc /sys /dev/pts /dev/shm /boot " \
         "/mnt/root /mnt/conf /mnt/logs /tmp"
-#define USAGE_POST_URL          "http://usage.esos-project.com/post_info.php"
-#define INET_TEST_HOST          "usage.esos-project.com"
+#define USAGE_POST_URL          "http://liveutil.com/post_info.php"
+#define INET_TEST_HOST          "hadronsan.liveutil.com"
 
 /* System menu layout */
 #define SYSTEM_MENU             0
